@@ -1,3 +1,4 @@
+package ConditionandLoop;
 import java.util.Arrays;
 
 public class ChangeValue {

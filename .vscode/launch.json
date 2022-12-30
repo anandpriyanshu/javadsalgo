@@ -1,0 +1,287 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch TwoSum",
+            "request": "launch",
+            "mainClass": "TwoSum",
+            "projectName": "JavaDSAlgo_4cf007b1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution",
+            "request": "launch",
+            "mainClass": "Solution",
+            "projectName": "JavaDSAlgo_4cf007b1"
+        },
+        {
+            "type": "java",
+            "name": "Launch GuessGame",
+            "request": "launch",
+            "mainClass": "GuessGame",
+            "projectName": "JavaDSAlgo_4cf007b1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sortedmatrix",
+            "request": "launch",
+            "mainClass": "Sortedmatrix",
+            "projectName": "JavaDSAlgo_4cf007b1"
+        },
+        {
+            "type": "java",
+            "name": "Launch RowcolMat",
+            "request": "launch",
+            "mainClass": "RowcolMat",
+            "projectName": "JavaDSAlgo_4cf007b1"
+        },
+        {
+            "type": "java",
+            "name": "Launch RotationCount",
+            "request": "launch",
+            "mainClass": "RotationCount",
+            "projectName": "JavaDSAlgo_4cf007b1"
+        },
+        {
+            "type": "java",
+            "name": "Launch SearchInRotatedSortedArrWithDuplicate",
+            "request": "launch",
+            "mainClass": "SearchInRotatedSortedArrWithDuplicate",
+            "projectName": "JavaDSAlgo_4cf007b1"
+        },
+        {
+            "type": "java",
+            "name": "Launch SearchInRotatedSortedArr",
+            "request": "launch",
+            "mainClass": "SearchInRotatedSortedArr",
+            "projectName": "JavaDSAlgo_4cf007b1"
+        },
+        {
+            "type": "java",
+            "name": "Launch PeakIndexInMountainArray",
+            "request": "launch",
+            "mainClass": "PeakIndexInMountainArray",
+            "projectName": "JavaDSAlgo_4cf007b1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Armstrong",
+            "request": "launch",
+            "mainClass": "Armstrong",
+            "projectName": "JavaDSAlgo_4cf007b1"
+        },
+        {
+            "type": "java",
+            "name": "Launch BinarySearch",
+            "request": "launch",
+            "mainClass": "BinarySearch",
+            "projectName": "JavaDSAlgo_4cf007b1"
+        },
+        {
+            "type": "java",
+            "name": "Launch CelingOfNumber",
+            "request": "launch",
+            "mainClass": "CelingOfNumber",
+            "projectName": "JavaDSAlgo_4cf007b1"
+        },
+        {
+            "type": "java",
+            "name": "Launch ChangeValue",
+            "request": "launch",
+            "mainClass": "ChangeValue",
+            "projectName": "JavaDSAlgo_4cf007b1"
+        },
+        {
+            "type": "java",
+            "name": "Launch CaseCheck",
+            "request": "launch",
+            "mainClass": "ConditionandLoop.CaseCheck",
+            "projectName": "JavaDSAlgo_4cf007b1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Conditionandloops",
+            "request": "launch",
+            "mainClass": "ConditionandLoop.Conditionandloops",
+            "projectName": "JavaDSAlgo_4cf007b1"
+        },
+        {
+            "type": "java",
+            "name": "Launch CountNums",
+            "request": "launch",
+            "mainClass": "ConditionandLoop.CountNums",
+            "projectName": "JavaDSAlgo_4cf007b1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Fib",
+            "request": "launch",
+            "mainClass": "ConditionandLoop.Fib",
+            "projectName": "JavaDSAlgo_4cf007b1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Maxof",
+            "request": "launch",
+            "mainClass": "ConditionandLoop.Maxof",
+            "projectName": "JavaDSAlgo_4cf007b1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Reverse",
+            "request": "launch",
+            "mainClass": "ConditionandLoop.Reverse",
+            "projectName": "JavaDSAlgo_4cf007b1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sum",
+            "request": "launch",
+            "mainClass": "ConditionandLoop.Sum",
+            "projectName": "JavaDSAlgo_4cf007b1"
+        },
+        {
+            "type": "java",
+            "name": "Launch helloWorld",
+            "request": "launch",
+            "mainClass": "ConditionandLoop.helloWorld",
+            "projectName": "JavaDSAlgo_4cf007b1"
+        },
+        {
+            "type": "java",
+            "name": "Launch FirstandLastPosition",
+            "request": "launch",
+            "mainClass": "FirstandLastPosition",
+            "projectName": "JavaDSAlgo_4cf007b1"
+        },
+        {
+            "type": "java",
+            "name": "Launch FloorOfNumber",
+            "request": "launch",
+            "mainClass": "FloorOfNumber",
+            "projectName": "JavaDSAlgo_4cf007b1"
+        },
+        {
+            "type": "java",
+            "name": "Launch FunctionOverload",
+            "request": "launch",
+            "mainClass": "FunctionOverload",
+            "projectName": "JavaDSAlgo_4cf007b1"
+        },
+        {
+            "type": "java",
+            "name": "Launch InfinteArray",
+            "request": "launch",
+            "mainClass": "InfinteArray",
+            "projectName": "JavaDSAlgo_4cf007b1"
+        },
+        {
+            "type": "java",
+            "name": "Launch LinearSearchAlgo",
+            "request": "launch",
+            "mainClass": "LinearSearchAlgo",
+            "projectName": "JavaDSAlgo_4cf007b1"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaxIn2D",
+            "request": "launch",
+            "mainClass": "MaxIn2D",
+            "projectName": "JavaDSAlgo_4cf007b1"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaxWealth",
+            "request": "launch",
+            "mainClass": "MaxWealth",
+            "projectName": "JavaDSAlgo_4cf007b1"
+        },
+        {
+            "type": "java",
+            "name": "Launch MinInArr",
+            "request": "launch",
+            "mainClass": "MinInArr",
+            "projectName": "JavaDSAlgo_4cf007b1"
+        },
+        {
+            "type": "java",
+            "name": "Launch NextGreatestLetter",
+            "request": "launch",
+            "mainClass": "NextGreatestLetter",
+            "projectName": "JavaDSAlgo_4cf007b1"
+        },
+        {
+            "type": "java",
+            "name": "Launch SearchIn2DArray",
+            "request": "launch",
+            "mainClass": "SearchIn2DArray",
+            "projectName": "JavaDSAlgo_4cf007b1"
+        },
+        {
+            "type": "java",
+            "name": "Launch SearchinString",
+            "request": "launch",
+            "mainClass": "SearchinString",
+            "projectName": "JavaDSAlgo_4cf007b1"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringExm",
+            "request": "launch",
+            "mainClass": "StringExm",
+            "projectName": "JavaDSAlgo_4cf007b1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sum(1)",
+            "request": "launch",
+            "mainClass": "Sum",
+            "projectName": "JavaDSAlgo_4cf007b1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Swap",
+            "request": "launch",
+            "mainClass": "Swap",
+            "projectName": "JavaDSAlgo_4cf007b1"
+        },
+        {
+            "type": "java",
+            "name": "Launch VarArgs",
+            "request": "launch",
+            "mainClass": "VarArgs",
+            "projectName": "JavaDSAlgo_4cf007b1"
+        },
+        {
+            "type": "java",
+            "name": "Launch findNumbers",
+            "request": "launch",
+            "mainClass": "findNumbers",
+            "projectName": "JavaDSAlgo_4cf007b1"
+        },
+        {
+            "type": "java",
+            "name": "Launch function",
+            "request": "launch",
+            "mainClass": "function",
+            "projectName": "JavaDSAlgo_4cf007b1"
+        },
+        {
+            "type": "java",
+            "name": "Launch isPrime",
+            "request": "launch",
+            "mainClass": "isPrime",
+            "projectName": "JavaDSAlgo_4cf007b1"
+        }
+    ]
+}

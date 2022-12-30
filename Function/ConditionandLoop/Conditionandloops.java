@@ -1,4 +1,5 @@
 package ConditionandLoop;
+import java.util.Scanner;
 
 
 public class Conditionandloops{
