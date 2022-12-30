@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "LSA.java",
+        "Function",
+        "ArrayandArrayList.java",
+        "BSA.java"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
+}
